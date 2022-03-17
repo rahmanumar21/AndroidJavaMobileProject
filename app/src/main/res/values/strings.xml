@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Scoat</string>
+    <string name="app_desc">( School Attendance )</string>
+    <string name="api_server">http://192.168.0.171/api</string>
+
+    <!--    Sign In-->
+    <string name="signInUserEmailHint">Email</string>
+    <string name="signInUsePasswordHint">Password</string>
+    <string name="signInButton">Sign In</string>
+    <string name="openSignUpActivity">Don\'t have an account? Sign Up</string>
+
+    <!--    Sign Up-->
+    <string name="signUpUserNameHint">Full Name</string>
+    <string name="signUpUserEmailHint">Email</string>
+    <string name="signUpUserPasswordHint">Password</string>
+    <string name="signUpUserPasswordConfirmationHint">Password Confirmation</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="openSignInActivity">Do you have an account? Sign In</string>
+    <string name="alertSignUpSuccessfully">You have successfully registered on our database</string>
+
+    <!--    User -->
+    <string name="userAttendButton">I attend class</string>
+
+
+</resources>
